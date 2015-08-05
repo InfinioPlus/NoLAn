@@ -5,5 +5,5 @@ No one reads the fine print.
 
 ##Introduction
 
-Started as a project in Hackathon by koding.com with <a href="https://github.com/GhostAlgorithm">Jorge Gomez</a>
-Any questions ? Mail me : harshvd95@gmail.com
+Started as a project in Hackathon by koding.com by <a href="https://github.com/GhostAlgorithm">Jorge Gomez</a> and <a href="https://github.com/royalharsh">Harsh Vardhan</a> 
+
